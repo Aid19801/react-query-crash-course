@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "James OBrien",
+      "email": "james@yesenia.net"
+    },
+    {
+      "id": 3,
+      "name": "John OMalley",
+      "email": "MalleyJohn@yesenia.net"
+    },
+    {
+      "id": 555,
+      "name": "Robert Jones",
+      "email": "jones@robert.com"
+    },
+    {
+      "id": 571,
+      "name": "Peter Smith",
+      "email": "smithP@p.com"
+    }
+  ]
+}
